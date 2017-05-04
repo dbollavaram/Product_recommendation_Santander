@@ -13,9 +13,13 @@ sample_submission.csv - a sample submission file in the correct format
 Data fields
 
 Column Name	Description
+
 fecha_dato	The table is partitioned for this column
+
 ncodpers	Customer code
+
 ind_empleado	Employee index: A active, B ex employed, F filial, N not employee, P pasive
+
 pais_residencia	Customer's Country residence
 sexo	Customer's sex
 age	Age
